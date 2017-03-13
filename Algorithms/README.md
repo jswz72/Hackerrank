@@ -1,4 +1,4 @@
 # Hackerrank
 
-Problems solved on from hackerrank.com
+Problems solved from hackerrank.com: Algorithms Section
 Username: jacob_sword
